@@ -1,0 +1,32 @@
+.country {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.country-list {
+  width: 40%;
+}
+.country-info {
+  margin-right: 5px;
+}
+.country-item {
+  margin-top: 5px;
+  background-color: rgb(137, 136, 133);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 47px;
+  width: 100%;
+}
+.item-left {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+  margin-left: 2%;
+}
+.item-left img {
+  width: 50px;
+  height: 40px;
+}
